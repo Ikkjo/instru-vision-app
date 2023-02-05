@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instru-vision-app/static/css/main.a8e01249.css",
+    "main.js": "/instru-vision-app/static/js/main.ed332671.js",
+    "index.html": "/instru-vision-app/index.html",
+    "main.a8e01249.css.map": "/instru-vision-app/static/css/main.a8e01249.css.map",
+    "main.ed332671.js.map": "/instru-vision-app/static/js/main.ed332671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e01249.css",
+    "static/js/main.ed332671.js"
+  ]
+}
